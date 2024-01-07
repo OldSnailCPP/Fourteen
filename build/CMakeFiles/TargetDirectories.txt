@@ -1,0 +1,4 @@
+E:/Fourteen/NewYearVersion/build/CMakeFiles/Fourteen.dir
+E:/Fourteen/NewYearVersion/build/CMakeFiles/edit_cache.dir
+E:/Fourteen/NewYearVersion/build/CMakeFiles/rebuild_cache.dir
+E:/Fourteen/NewYearVersion/build/CMakeFiles/Fourteen_autogen.dir

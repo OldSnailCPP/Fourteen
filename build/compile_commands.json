@@ -1,0 +1,27 @@
+[
+{
+  "directory": "E:/Fourteen/NewYearVersion/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Fourteen.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Fourteen.dir\\Fourteen_autogen\\mocs_compilation.cpp.obj -c E:\\Fourteen\\NewYearVersion\\build\\Fourteen_autogen\\mocs_compilation.cpp",
+  "file": "E:/Fourteen/NewYearVersion/build/Fourteen_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "E:/Fourteen/NewYearVersion/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Fourteen.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Fourteen.dir\\src\\frameless.cc.obj -c E:\\Fourteen\\NewYearVersion\\src\\frameless.cc",
+  "file": "E:/Fourteen/NewYearVersion/src/frameless.cc"
+},
+{
+  "directory": "E:/Fourteen/NewYearVersion/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Fourteen.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Fourteen.dir\\src\\hoverlabel.cc.obj -c E:\\Fourteen\\NewYearVersion\\src\\hoverlabel.cc",
+  "file": "E:/Fourteen/NewYearVersion/src/hoverlabel.cc"
+},
+{
+  "directory": "E:/Fourteen/NewYearVersion/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Fourteen.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Fourteen.dir\\src\\main.cpp.obj -c E:\\Fourteen\\NewYearVersion\\src\\main.cpp",
+  "file": "E:/Fourteen/NewYearVersion/src/main.cpp"
+},
+{
+  "directory": "E:/Fourteen/NewYearVersion/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Fourteen.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Fourteen.dir\\Fourteen_autogen\\EWIEGA46WW\\qrc_images.cpp.obj -c E:\\Fourteen\\NewYearVersion\\build\\Fourteen_autogen\\EWIEGA46WW\\qrc_images.cpp",
+  "file": "E:/Fourteen/NewYearVersion/build/Fourteen_autogen/EWIEGA46WW/qrc_images.cpp"
+}
+]

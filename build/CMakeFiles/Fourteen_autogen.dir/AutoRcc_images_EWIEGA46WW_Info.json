@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "E:/Fourteen/NewYearVersion/build/Fourteen_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Fourteen/NewYearVersion/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Fourteen/NewYearVersion/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Fourteen/NewYearVersion",
+	"CMAKE_SOURCE_DIR" : "E:/Fourteen/NewYearVersion",
+	"INCLUDE_DIR" : "E:/Fourteen/NewYearVersion/build/Fourteen_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Fourteen/NewYearVersion/src/resources/WelcomeImage1.png",
+		"E:/Fourteen/NewYearVersion/src/resources/WelcomeImage2.png"
+	],
+	"LOCK_FILE" : "E:/Fourteen/NewYearVersion/build/CMakeFiles/Fourteen_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Fourteen/NewYearVersion/build/CMakeFiles/Fourteen_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Fourteen/NewYearVersion/images.qrc",
+	"VERBOSITY" : 0
+}
